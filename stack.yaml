@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+ - optparse-applicative-0.11.0.2
+resolver: lts-3.1
